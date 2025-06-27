@@ -30,8 +30,3 @@ Automate the resume screening process by ranking resumes based on their relevanc
 ### Prerequisites:
 - Python 3.7+
 - pip
-
-### Clone the repository:
-```bash
-git clone https://github.com/your-username/AiPoweredResumeRanker.git
-cd AiPoweredResumeRanker
