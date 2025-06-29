@@ -1,11 +1,11 @@
-# AI-Powered Resume Ranker 🚀
+# AI-Powered Resume Ranker
 
 An AI-powered web application that ranks resumes for a specific job profile using Natural Language Processing (NLP) techniques.
 
-## 📜 Objective
+## Objective
 Automate the resume screening process by ranking resumes based on their relevance to the job description using NLP, TF-IDF, and cosine similarity.
 
-## 🧠 Features
+## Features
 - Upload multiple PDF resumes
 - Upload a job description
 - Extract and preprocess text using **SpaCy**
@@ -16,7 +16,7 @@ Automate the resume screening process by ranking resumes based on their relevanc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** HTML, CSS, Bootstrap (via Flask templates)
 - **Backend:** Python, Flask
 - **NLP:** SpaCy
@@ -25,7 +25,7 @@ Automate the resume screening process by ranking resumes based on their relevanc
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ### Prerequisites:
 - Python 3.7+
